@@ -1,5 +1,5 @@
 # Snake
-A Simple Snake Game on C#, Windows Forms<br>
+A simple Snake Game on C#, Windows Forms<br>
 Sorry for my stupid code<br><br>
 練習で作っただけ
 
