@@ -1,6 +1,6 @@
 # Snake
 A Simple Snake Game on C#, Windows Forms<br>
-Sorry for the messy code<br><br>
+Sorry for my stupid code<br><br>
 練習で作っただけ
 
 # Controls
